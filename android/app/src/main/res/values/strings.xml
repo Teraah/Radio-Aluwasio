@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Radio Aluwasio</string>
+    <string name="title_activity_main">Radio Aluwasio</string>
+    <string name="package_name">tg.aluwasio.radio</string>
+    <string name="custom_url_scheme">tg.aluwasio.radio</string>
+</resources>
